@@ -17,6 +17,7 @@ a{
 .navbar {
     padding-top: 0;
     padding-bottom: 0;
+    padding-right: 0;
  }
 
 
@@ -55,8 +56,8 @@ a{
   left: 40%;
   width: 12%;
   padding: 0;
-  max-width: 20%;
-  max-height: 30%;
+  max-width: 30%;
+  max-height: 40%;
   transition: 0.3s;
 }
 
@@ -74,14 +75,13 @@ a{
 .main-page-button-text{
 
   position: absolute;
-  top: 60%;
-  left: 12%;
+  top: 73%;
   font-size: 80%;
   font-family: Poppins;
   font-weight: bold;
   color: white;
   opacity: 0.1;
-  left: 111.5%;
+  left: 115.5%;
   max-width: 150%;
   margin-bottom: 0;
   padding-left: 18%;
@@ -99,4 +99,9 @@ a{
   display: flex;
   flex-flow: row;
   justify-content: space-around;
+}
+
+.social-buttons {
+  max-width: 20%;
+  display: block;
 }
