@@ -26,10 +26,10 @@
     <div class="container-fluid">
       <ul class="navbar-nav">
         <li class="nav-item">
-          <a style="color:white;" class="nav-link fs-4" href="#">About Me </a>
+          <a style="color:white;" class="nav-link fs-4" href="#about-me">About Me </a>
         </li>
         <li class="nav-item">
-          <a style="color:white;" class="nav-link fs-4" href="#">My Socials </a>
+          <a style="color:white;" class="nav-link fs-4" href="#Socials">My Socials </a>
         </li>
         <li class="nav-item">
           <a style="color:white;" class="nav-link fs-4" href="#">My Works </a>
@@ -44,7 +44,7 @@
   <div class="main">
 
     <div class="moon">
-      <img src="images/moon.jpg" alt="moon-picture">
+      <img id="moon-image" src="images/moon.jpg" alt="moon-picture">
     </div>
 
     <div class="theme">
@@ -57,8 +57,11 @@
 
       <div class="down-button-family">
 
-        <h2 class="main-page-button-text">Scroll Down</h2>
-        <a href="#linkedin"><img class="down-button" src="images/down-button.png" alt="down-button"></a>
+
+        <a href="#Socials">
+            <h2 class="main-page-button-text">Scroll Down</h2>
+            <img class="down-button" src="images/down-button.png" alt="down-button">
+        </a>
 
       </div>
 
@@ -67,9 +70,50 @@
 
   </div>
 
-  <!-- Website Page 2  -->
+  <!-- Website Page 2 - Socials -->
 
+  <div id="Socials" class="Socials">
 
+    <a id="Socials-anchor" href="Github">
+      <i class="fa-brands fa-square-github fa-10x"> <p class="Social-info" >Here you can find the compilation of all my work! </p> </i>
+      <h2>GitHub</h2>
+    </a>
+
+    <a id="Socials-anchor" href="LinkedIn">
+      <i class="fa-brands fa-linkedin fa-10x"> <p class="Social-info" >Here you can connect professionally with me! </p> </i>
+      <h2>LinkedIn</h2>
+    </a>
+
+    <a id="Socials-anchor" href="#">
+      <i class="fa-brands fa-instagram fa-10x"> <p class="Social-info" >Here you can have a sneak peak into my personal life!  </p> </i>
+      <h2>Instagram</h2>
+    </a>
+
+  </div>
+
+  <!-- Website Page 3 - About Me -->
+
+  <a id="about-me" href="#"></a>
+
+  <div class="about-me">
+    <img id="self-portrait" src="images/selfie.PNG" alt="">
+
+    <p id="self-writing"> <span style="font-size: 2rem;">"</span>
+                          I'm Saurab Dhir, A Data Science learner at Simon Fraser University, Canada.
+                          I grew up in the capital of India, Delhi. I love learning new skills
+                          and am always looking for new pursits in the field of Computers wether it be Hardware, Software,
+                          Data or anything else!
+                         <span style="font-size: 2rem;">"</span>
+
+    </p>
+
+  </div>
+
+  <!-- Website Page 4 - My Works -->
+
+  <h1 id="page-4-intro">Here's what I've done so far!</h1>
+
+  
 
 
 </body>
