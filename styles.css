@@ -221,10 +221,6 @@ span {
     font-size: 3em !important;
   }
 
-  .container-fluid{
-    padding: 0 ;
-  }
-
   .navbar {
       padding-top: 0;
       padding-bottom: 0;
@@ -310,7 +306,7 @@ span {
   }
 
   .Socials {
-    margin-top: 25vh;
+    margin-top: 15vh;
     display: flex;
     flex-flow: row;
     justify-content: space-around;
