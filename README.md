@@ -21,6 +21,7 @@ Edits are easiest back in the design tool. Re-export `Saurab Dhir Portfolio.dc.h
 3. The whole SEO head block after the description: canonical, favicon link, Open Graph / Twitter tags, and the JSON-LD `@graph` (Person + Docula Organization + WebSite)
 4. The loop button — grey icon button with the pixel loop-arrow SVG, not the design tool's `LOOP: ON/OFF` text label
 5. The wider grass platforms (`width:240px` pulled `60px` outward, vs the export's `180px` at the stage edges)
+6. The Docula link as `https://getdocula.com/` — the export ships it as `http://`
 
 Anything added to `<head>` later (og:image, etc.) goes in item 3 at the same time it goes into `index.html`, or the next re-export loses it.
 
