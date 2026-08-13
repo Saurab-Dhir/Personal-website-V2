@@ -1,0 +1,131 @@
+- generic [ref=f2e2]:
+  - generic [ref=f2e3]:
+    - navigation [ref=f2e4]:
+      - link "SD▪" [ref=f2e5] [cursor=pointer]:
+        - /url: "#top"
+      - generic [ref=f2e6]:
+        - link "WRITING" [ref=f2e7] [cursor=pointer]:
+          - /url: "#writing"
+        - link "GLOBE" [ref=f2e8] [cursor=pointer]:
+          - /url: "#globe"
+        - link "ABOUT" [ref=f2e9] [cursor=pointer]:
+          - /url: "#about"
+        - link "SAY HI" [ref=f2e10] [cursor=pointer]:
+          - /url: https://www.linkedin.com/in/saurab-dhir/
+    - generic [ref=f2e13]:
+      - generic [ref=f2e14]: HELLO, WORLD ▮
+      - heading "Saurab Dhir" [level=1] [ref=f2e15]
+      - paragraph [ref=f2e16]: Chomping on Petabytes of Data.
+      - generic [ref=f2e17]:
+        - link "READ THE FIELD NOTES" [ref=f2e18] [cursor=pointer]:
+          - /url: "#writing"
+        - link "SPIN THE GLOBE" [ref=f2e19] [cursor=pointer]:
+          - /url: "#globe"
+  - generic [ref=f2e25]:
+    - generic [ref=f2e26]: FIELD NOTES
+    - heading "Writing & press" [level=2] [ref=f2e27]
+    - paragraph [ref=f2e28]: Dispatches from the data trenches, plus the occasional headline about them.
+    - generic [ref=f2e29]:
+      - generic [ref=f2e30]: "2026"
+      - link "TECH FUNDING NEWS · PROFILE The Engineer Teaching AI the Difference Between Real and Fake A profile on the whole point of all this. READ →" [ref=f2e34] [cursor=pointer]:
+        - /url: https://techfundingnews.com/the-engineer-teaching-ai-the-difference-between-real-and-fake/
+        - generic [ref=f2e35]: TECH FUNDING NEWS · PROFILE
+        - generic [ref=f2e36]: The Engineer Teaching AI the Difference Between Real and Fake
+        - generic [ref=f2e37]: A profile on the whole point of all this.
+        - generic [ref=f2e38]: READ →
+      - generic [ref=f2e39]: JUL 7, 2026
+      - link "THE AI JOURNAL · BYLINE The Next AI Moat Won’t Be the Model Models commoditize. The pipelines that feed them don’t. On where the durable edge actually lives. READ →" [ref=f2e43] [cursor=pointer]:
+        - /url: https://aijourn.com/the-next-ai-moat-wont-be-the-model/
+        - generic [ref=f2e44]: THE AI JOURNAL · BYLINE
+        - generic [ref=f2e45]: The Next AI Moat Won’t Be the Model
+        - generic [ref=f2e46]: Models commoditize. The pipelines that feed them don’t. On where the durable edge actually lives.
+        - generic [ref=f2e47]: READ →
+      - generic [ref=f2e48]: JUN 29, 2026
+      - link "BETAKIT · IN THE NEWS Mecka AI acquires Docula as it builds the data layer for robotics The one where Docula joins Mecka to help sift petabytes of motion data for robots. READ →" [ref=f2e52] [cursor=pointer]:
+        - /url: https://betakit.com/mecka-ai-acquires-docula-as-it-builds-the-data-layer-for-robotics/
+        - generic [ref=f2e53]: BETAKIT · IN THE NEWS
+        - generic [ref=f2e54]: Mecka AI acquires Docula as it builds the data layer for robotics
+        - generic [ref=f2e55]: The one where Docula joins Mecka to help sift petabytes of motion data for robots.
+        - generic [ref=f2e56]: READ →
+      - generic [ref=f2e57]: JUN 1, 2026
+      - link "OPSMATTERS · BYLINE · 3 MIN War Against Fake Data Picking a fight with synthetic garbage. The case for data you can actually trust. READ →" [ref=f2e61] [cursor=pointer]:
+        - /url: https://www.opsmatters.com/posts/war-against-fake-data
+        - generic [ref=f2e62]: OPSMATTERS · BYLINE · 3 MIN
+        - generic [ref=f2e63]: War Against Fake Data
+        - generic [ref=f2e64]: Picking a fight with synthetic garbage. The case for data you can actually trust.
+        - generic [ref=f2e65]: READ →
+      - generic [ref=f2e66]: SEP 2025
+      - 'link "TECHNORI · IN THE NEWS Enterprise AI Startup: Docula Docula in its startup days, before the acquisition. READ →" [ref=f2e70] [cursor=pointer]':
+        - /url: https://technori.com/2025/09/26447-enterprise-ai-startup-docula/marcus/
+        - generic [ref=f2e71]: TECHNORI · IN THE NEWS
+        - generic [ref=f2e72]: "Enterprise AI Startup: Docula"
+        - generic [ref=f2e73]: Docula in its startup days, before the acquisition.
+        - generic [ref=f2e74]: READ →
+  - generic [ref=f2e76]:
+    - generic [ref=f2e77]:
+      - generic [ref=f2e78]: COORDINATES
+      - heading "Everywhere, so far" [level=2] [ref=f2e79]
+      - paragraph [ref=f2e80]: Six stops, five countries, one ongoing experiment. Drag to spin — or click a stop to fly there.
+      - generic [ref=f2e81]:
+        - button "VANCOUVER NOW CA" [ref=f2e82] [cursor=pointer]:
+          - generic [ref=f2e83]: VANCOUVER
+          - generic [ref=f2e84]:
+            - generic [ref=f2e85]: NOW
+            - generic [ref=f2e86]: CA
+        - button "DELHI IN" [ref=f2e87] [cursor=pointer]:
+          - generic [ref=f2e88]: DELHI
+          - generic [ref=f2e89]: IN
+        - button "NEW YORK US" [ref=f2e90] [cursor=pointer]:
+          - generic [ref=f2e91]: NEW YORK
+          - generic [ref=f2e92]: US
+        - button "SHENZHEN CN" [ref=f2e93] [cursor=pointer]:
+          - generic [ref=f2e94]: SHENZHEN
+          - generic [ref=f2e95]: CN
+        - button "TOKYO JP" [ref=f2e96] [cursor=pointer]:
+          - generic [ref=f2e97]: TOKYO
+          - generic [ref=f2e98]: JP
+        - button "TORONTO CA" [ref=f2e99] [cursor=pointer]:
+          - generic [ref=f2e100]: TORONTO
+          - generic [ref=f2e101]: CA
+    - generic [ref=f2e104]:
+      - generic [ref=f2e105]: DRAG TO SPIN
+      - generic [ref=f2e106]: CLICK A PIN
+  - generic [ref=f2e108]:
+    - generic [ref=f2e109]: ABOUT
+    - heading "Some facts, in no particular order" [level=2] [ref=f2e110]
+    - paragraph [ref=f2e111]: Kept short on purpose. Mystery is a feature.
+    - generic [ref=f2e112]:
+      - button "Toggle replay loop" [ref=f2e113] [cursor=pointer]
+      - generic [ref=f2e125]:
+        - generic [ref=f2e129]:
+          - generic [ref=f2e130]: DOCULA
+          - generic [ref=f2e131]: FOUNDED FEB 2025
+        - generic [ref=f2e135]:
+          - link "MECKA AI" [ref=f2e136] [cursor=pointer]:
+            - /url: https://mecka.ai/
+          - generic [ref=f2e137]: 2026 → NOW
+        - text: "{{jumper}}"
+    - generic [ref=f2e144]:
+      - generic [ref=f2e147]:
+        - text: Teaching robots how the real world works, at
+        - link "Mecka AI" [ref=f2e148] [cursor=pointer]:
+          - /url: https://mecka.ai/
+        - text: .
+      - generic [ref=f2e151]:
+        - text: "Before that: Founded"
+        - link "Docula" [ref=f2e152] [cursor=pointer]:
+          - /url: http://getdocula.com/
+        - text: in February 2025. An AI engine that read medical records so humans didn’t have to. Acquired, 2026.
+      - generic [ref=f2e153]: "Hobby: Working on interesting problems"
+  - contentinfo [ref=f2e156]:
+    - generic [ref=f2e158]:
+      - generic [ref=f2e159]: TRANSMISSION OPEN
+      - heading "Say hi." [level=2] [ref=f2e160]
+      - generic [ref=f2e161]:
+        - link "LINKEDIN ↗" [ref=f2e162] [cursor=pointer]:
+          - /url: https://www.linkedin.com/in/saurab-dhir/
+        - link "X / TWITTER ↗" [ref=f2e163] [cursor=pointer]:
+          - /url: https://x.com/SaurabDhir
+      - generic [ref=f2e164]:
+        - generic [ref=f2e165]: © 2026 SAURAB DHIR · VANCOUVER, BC
+        - generic [ref=f2e166]: ASSEMBLED FROM PIXELS & PETABYTES
